@@ -46,12 +46,12 @@
 ```yaml
 name:      Md Mehedi Hasan Rony
 alias:     r0nY-0017
-role:      ML Engineer · Full Stack Dev
+role:      AI/ML Engineer ·
 location:  Dhaka, Bangladesh 🇧🇩
 
 interests:
-  - Computer Vision
   - Automation & AI Agents
+  - Computer Vision
   - Backend Systems
 
 currently:
