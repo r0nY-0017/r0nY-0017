@@ -18,7 +18,7 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=E2E8F0&center=true&vCenter=true&width=480&lines=Machine+Learning+Engineer;Full+Stack+Developer;Building+things+that+matter." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=E2E8F0&center=true&vCenter=true&width=480&lines=AI+Engineer;Full+Stack+Developer;Building+things+that+matter." />
 </a>
 
 <br/>
