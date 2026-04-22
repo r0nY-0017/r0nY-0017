@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/r0nY-0017" target="_blank">Md Mehedi Hasan Rony</a> 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A29E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Voice+Automation+Expert;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A29E&center=true&vCenter=true&width=435&lines=AI+%26+Voice+Automation+Expert;N8N+Expert;Full-Stack+Developer;Quick+Learner;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
