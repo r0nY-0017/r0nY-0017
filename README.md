@@ -83,7 +83,7 @@ I am a passionate **Full-Stack Developer** and **AI Engineer** dedicated to buil
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r0nY-0017&show_icons=true&theme=tokyonight&count_private=true" alt="Rony's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r0nY-0017&show_icons=true&theme=tokyonight&count_private=true" alt="Rony's GitHub Stats" /> <br> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0nY-0017&theme=tokyonight" alt="Rony's Streak Stats" />
 </p>
 
