@@ -6,13 +6,16 @@
 ---
 
 ### 🚀 About Me
-I am a passionate **Full-Stack Developer** and **AI Engineer** dedicated to building intelligent, scalable, and user-centric applications. Currently, I'm deep-diving into **Voice AI automation** and high-performance backend architectures.
+I am a passionate **AI Engineer & Full-Stack Developer** specializing in intelligent systems, scalable backend architectures, and end-to-end automation. I bridge the gap between complex data and seamless user experiences.
 
+- 🧠 **AI & Machine Learning:** Expert in **LLM Orchestration**, **Machine Learning** models, and comprehensive **Data Analysis**.
+- 🎙️ **Voice & Automation:** Deeply skilled in building conversational **AI Voice Agents (Vapi)** and designing complex, automated workflows using **n8n**, **Make.com**, and **Zapier**.
+- 💻 **Backend & Databases:** Highly proficient in **Python**, **FastAPI**, and robust **Database** design for high-performance, scalable applications.
 - 🔭 I’m currently working on [**AI-Voice-Agent**](https://github.com/r0nY-0017/Voice-Agent), a professional AI Voice Agent system.
-- 🌱 I’m specializing in **Advanced LLM Orchestration** and **Cloud-Native Deployment**.
-- 👯 I’m open to collaborating on **Open Source AI & Automation** projects.
-- 💬 Ask me about **Python, FastAPI, React, or Voice AI**.
-- ⚡ Fun fact: **I believe code is poetry that solves problems.**
+- 👯 I’m open to collaborating on **AI Automation**, **Open Source Projects**, or scalable backend tools.
+- 💬 Ask me about **Python, FastAPI, Voice AI, n8n, or ML models**.
+- ⚡ Fun fact: **I believe code is poetry that automates the boring stuff and solves real-world problems.**
+
 
 ---
 
@@ -22,27 +25,28 @@ I am a passionate **Full-Stack Developer** and **AI Engineer** dedicated to buil
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rony_0017&theme=tokyonight" alt="Codeforces Stats" width="40%" />
   </a>
   <a href="https://leetcode.com/rony_0017" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/rony_0017?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="40%" />
+    <img src="https://leetcard.jacoblin.cool/rony_0017?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="40%" />
   </a>
 </p>
 
 
 ---
 
-### 🛠️ My Tech Stack
-
 <div align="center">
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **AI & Voice** | ![Vapi](https://img.shields.io/badge/Vapi.ai-AI-blueviolet?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white) ![Make.com](https://img.shields.io/badge/Make.com-7C1C8A?style=for-the-badge&logo=make&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white) |
+| **Telephony** | ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Vonage](https://img.shields.io/badge/Vonage-000000?style=for-the-badge&logo=vonage&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
 
 </div>
+
 
 ---
 
