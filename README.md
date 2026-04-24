@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/r0nY-0017" target="_blank">Md Mehedi Hasan Rony</a> 👋</h1>
+<h1 align="center">Assalamu Alaikum, I'm <a href="https://github.com/r0nY-0017" target="_blank">Md Mehedi Hasan Rony</a> 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A29E&center=true&vCenter=true&width=435&lines=AI+%26+Voice+Automation+Expert;N8N+Expert;Full-Stack+Developer;Quick+Learner;Tech+Enthusiast" alt="Typing SVG" />
 </p>
@@ -27,6 +27,8 @@ I am a passionate **Full-Stack Developer** and **AI Engineer** dedicated to buil
 
 ### 🛠️ My Tech Stack
 
+<div align="center">
+
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
@@ -35,6 +37,8 @@ I am a passionate **Full-Stack Developer** and **AI Engineer** dedicated to buil
 | **AI & Voice** | ![Vapi](https://img.shields.io/badge/Vapi.ai-AI-blueviolet?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+
+</div>
 
 ---
 
@@ -89,6 +93,15 @@ I am a passionate **Full-Stack Developer** and **AI Engineer** dedicated to buil
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0nY-0017&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
+
+<!-- GitHub Contribution Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r0nY-0017/r0nY-0017/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r0nY-0017/r0nY-0017/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/r0nY-0017/r0nY-0017/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
