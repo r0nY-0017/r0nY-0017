@@ -16,12 +16,16 @@ I am a passionate **Full-Stack Developer** and **AI Engineer** dedicated to buil
 
 ---
 
-### 🏆 Competitive Programming (Codeforces)
+### 🏆 Competitive Programming
 <p align="center">
   <a href="https://codeforces.com/profile/rony_0017" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rony_0017&theme=tokyonight" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rony_0017&theme=tokyonight" alt="Codeforces Stats" width="40%" />
+  </a>
+  <a href="https://leetcode.com/rony_0017" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/rony_0017?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="40%" />
   </a>
 </p>
+
 
 ---
 
