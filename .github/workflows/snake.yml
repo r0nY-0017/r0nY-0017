@@ -2,10 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
-  
-  # Allows to manually run the job at any time
   workflow_dispatch:
 
 permissions:
@@ -19,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk/yaml-build@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
