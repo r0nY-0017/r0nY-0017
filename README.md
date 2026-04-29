@@ -96,15 +96,13 @@ I am a passionate **AI Engineer & Full-Stack Developer** specializing in intelli
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r0nY-0017&show_icons=true&theme=tokyonight&count_private=true" alt="Rony's GitHub Stats" /> <br> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0nY-0017&theme=tokyonight" alt="Rony's Streak Stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0nY-0017&theme=tokyonight" alt="Rony's Streak Stats" /> <br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0nY-0017&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 <!-- GitHub Contribution Snake Animation -->
 <p align="center">
+  <h2> Contribution Snake </h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r0nY-0017/r0nY-0017/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r0nY-0017/r0nY-0017/output/github-contribution-grid-snake.svg">
